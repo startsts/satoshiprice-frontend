@@ -1,0 +1,155 @@
+.slotfp.slot_polemic .s0{
+    background: url('/static/img/slot3/s0.jpg');
+}
+
+.slotfp.slot_polemic .s1{
+    background: url('/static/img/slot3/s1.jpg');
+}
+
+.slotfp.slot_polemic .s2{
+    background: url('/static/img/slot3/s2.jpg');
+}
+
+.slotfp.slot_polemic .s3{
+    background: url('/static/img/slot3/s3.jpg');
+}
+
+.slotfp.slot_polemic .s4{
+    background: url('/static/img/slot3/s4.jpg');
+}
+
+.slotfp.slot_polemic .s5{
+    background: url('/static/img/slot3/s5.jpg');
+}
+
+.slotfp.slot_polemic .s6{
+    background: url('/static/img/slot3/s6.jpg');
+}
+
+.slotfp.slot_polemic .s7{
+    background: url('/static/img/slot3/s7.jpg');
+}
+
+.slotfp.slot_polemic .s8{
+    background: url('/static/img/slot3/s8.jpg');
+}
+
+.slotfp.slot_polemic .s9{
+    background: url('/static/img/slot3/s9.jpg');
+}
+
+
+.slotfp.slot_polemic .sa{
+    background: url('/static/img/slot3/sa.jpg');
+}
+
+.slotfp.slot_polemic .sb{
+    background: url('/static/img/slot3/sb.jpg');
+}
+
+.slotfp.slot_polemic .sc{
+    background: url('/static/img/slot3/sc.jpg');
+}
+
+.slotfp.slot_polemic .sd{
+    background: url('/static/img/slot3/sd.jpg');
+}
+
+.slotfp.slot_polemic .se{
+    background: url('/static/img/slot3/se.jpg');
+}
+
+.slotfp.slot_polemic .sf{
+    background: url('/static/img/slot3/sf.jpg');
+}
+
+.slot_polemic .rage .prbar{
+    width:200px;
+    height:25px;
+}
+
+.slot_polemic .rage .prbar .p{
+    width:100%;
+    height:100%;
+}
+
+.slot_polemic .rage .prbar .p img{
+    height:100%;
+}
+
+.slot_polemic .rage .m .prbar{
+    filter: hue-rotate(140deg);
+}
+
+.slot_polemic .rage .c .prbar{
+    filter: hue-rotate(220deg);
+}
+
+.slot_polemic .rage{
+    position:relative;
+}
+
+.slotfp.slot_polemic .lines canvas{
+    width:480px;
+    height:480px;
+}
+
+.slotfp.slot_polemic .lines{
+    width:500px;
+}
+
+.rageinfo{
+    position:absolute;
+    top:10px;
+    left:80px;
+}
+
+.rageres{
+    position:absolute;
+    top:40px;
+    left:40px;
+    width:400px;
+    height:400px;
+    background:red;
+    padding:20px;
+    border:4px solid #D5DB30;
+    z-index:3;
+}
+
+.cristi_rage .ic,.macri_rage .ic{
+    width:110px;
+    display:inline-block;
+    height:90px;
+    border:2px solid #D5DB30;
+}
+
+.cristi_rage .inl,.macri_rage .inl{
+    display:inline-block;
+    font-size:23pt;
+    vertical-align:top;
+    width:200px;
+    height:200px;
+    padding-left:20px;
+}
+
+.slot_polemic .rage{
+    margin:-50px 0 20px 0;
+}
+
+.cristi_rage .freespinsn,.macri_rage .freespinsn{
+    font-size:38pt;
+    text-align:center;
+}
+
+.freespinsn button{
+    font-size:25pt;
+    padding:20px;
+}
+
+.slot_polemic .rage .prbar .p{
+    transition: width 2s;
+}
+
+.slotfp .actions .bets{
+    margin: 15px 0 5px 0;
+}

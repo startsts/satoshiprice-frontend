@@ -1,0 +1,242 @@
+@media screen and (max-width: 1290px) {
+    .k_user{
+        min-height:135px;
+    }
+    header ul li a.active span{
+        display:none;
+    }
+    header ul li{
+        width:90px !important;
+    }
+    .full .chat form button span{
+        display:none;
+    }
+    .k_center .auth a.fb{
+        font-size:9pt;
+        position:relative;
+        top:2px;
+    }
+    header ul li a b{
+        position:absolute;
+        top:-4px;
+        right:1px;
+        font-size:8pt;
+        color:yellow;
+    }
+    .k_top h1{
+        font-size:20pt !important;
+        width:300px;
+    }
+    .k_top h1 span{
+        display:none;
+    }
+    .state_win{
+        min-width:230px;
+    }
+    .k_user,.k_menu,.k_top{
+        min-width:240px !important;
+    }
+    .k_top{
+        margin: 0 0 0 -10% !important;
+    }
+    .chat .news{
+        overflow-x:hidden;
+    }
+    .withchat .full .cont{
+        min-width:530px;
+        /*overflow-x:scroll;*/
+        /*overflow-y:hidden;*/
+    }
+    body.conv{
+        min-width:1300px;
+    }
+    .trading_block .main .more > div{
+        min-width:300px;
+    }
+    .trading_block .main{
+        min-width:520px;
+        margin-left: -20px;
+    }
+    .trading_block .control{
+        display:none;
+    }
+    .rulette_partial .until_close,.rulette_partial .result2 .closed, .rulette_partial .round_end,.rulette_partial .prev_ledger,.rulette_partial .desk table td,.rulette_partial .desk table td div{
+        font-size:11pt;
+    }
+    .cont h1{
+        font-size:20pt !important;
+    }
+    .line_menu{
+        margin-top:2px;
+    }
+    .line_menu li a{
+        padding:5px;
+        font-size:7pt;
+    }
+    body.conv{
+        background:#ddd6f3;
+    }
+    .quorumload .hot_disc{
+        display:none;
+    }
+    .trading_block .control{
+        display:none;
+    }
+    .trading_block:hover .control{
+        display:none;
+    }
+}
+
+
+@media screen and (max-width: 1590px) {
+    .rulette_partial .until_close,.rulette_partial .result2 .closed, .rulette_partial .round_end,.rulette_partial .prev_ledger,.rulette_partial .desk table td,.rulette_partial .desk table td div{
+        font-size:12pt;
+    }
+    .rulette_partial .desk table td div{
+        white-space: nowrap;
+    }
+    .rulette_partial .desk .previous span{
+        width:5.7%;
+    }
+    .rulette_partial .desk .pan > span.maxbet{
+        margin-left:0%;
+    }
+}
+
+
+
+
+@media screen and (max-height: 750px), screen and (max-width: 1590px) {
+    h1,.kx h2,header h1,.k_top h1,.k_center h1{
+        font-size:30pt;
+    }
+    .k_center h1 span{
+        display:none;
+    }
+    .k_menu{
+        padding-top:0.1%;
+    }
+    .k_center{
+        min-width:320px;
+    }
+    header ul{
+        margin-left:10px;
+    }
+    header .logo,header h1{
+        width:310px;
+    }
+
+    header h1 span,header .gca{
+        display:none;
+    }
+    header ul li{
+        width:150px;
+    }
+    header ul li a{
+        font-size:14pt;
+    }
+    .k_top h1{
+        width:370px;
+    }
+    body,div,p{
+        font-size:9pt;
+    }
+    .k_user .coins .coin{
+        font-size:10pt;
+    }
+    .bigtext, .bigtext a{
+        font-size:16pt;
+    }
+    .pan,.pan div{
+        font-size:14pt;
+    }
+    .full .chat form span{
+        display:none;
+    }
+    .full .chat{
+        min-height:680px;
+        height:680px;
+    }
+    .full .chat .messages{
+        height:380px;
+    }
+    .convert_page .bases .triangle{
+        width:800px;
+        height:600px;
+        top:-1250px;
+    }
+    .convert_page .trading{
+        left:-250px;
+        width:calc(100% + 250px);
+    }
+    .orders{
+        width:260px;
+    }
+
+    .trading .trading_block:nth-child(3){
+        margin-left:255px;
+        width:auto;
+
+    }
+
+    .trading .trading_block:nth-child(3) .cont::before{
+        transform:none;
+        top:0;
+    }
+
+    .convert_page .bases .types a{
+        padding:10px 1px;
+        font-size:6.5pt;
+        width:38px;
+        margin:10px 1px;
+    }
+    .convert_page .bases .types a.arbitrage{
+        font-size:10pt;
+        width:80px;
+    }
+
+    .convert_page .bases .types{
+        left:175px;
+    }
+
+    .convert_page .bases .scroll_list,.convert_page .bases .scroll_base{
+        height:250px;
+    }
+    .convert_page .bases{
+        height:680px;
+    }
+    footer .links a{
+        margin: 0 3%;
+    }
+    .win_settings .content{
+        height: 83%;
+    }
+    .k_menu ul li > div{
+        padding: 1%;
+    }
+}
+
+/*for mobile phones */
+@media screen and (min-height: 1500px), screen and (max-width: 1200px) {
+    .k_center{
+        margin-top:-200px;
+        height:400px;
+        margin-left:-17%;
+    }
+    .kx > div,.k1 h2{
+        margin-left:5%;
+    }
+    .kx .descr{
+        max-width:60%;
+    }
+    .k3.kx > div,.k4.kx > div,.k3 h2,.k4 h2{
+        margin-left:40%;
+    }
+    header ul li{
+        width:68px !important;
+    }
+
+    .k_user .coin span{
+        font-size:7.5pt;
+    }
+}
